@@ -3,7 +3,7 @@ import './globals.css';
 
 export const metadata: Metadata = {
   title: 'The Branch School',
-  description: 'The Branch School is a private school in Houston, TX, dedicated to fostering a love of learning in its students. Our experienced faculty and staff provide a supportive environment that encourages academic excellence, creativity, and personal growth.',
+  description: 'The Branch School is a private school in Houston, TX, dedicated to fostering a love of learning in its students. Our experienced faculty and staff provide a nurturing environment that allows each child to grow and thrive.',
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

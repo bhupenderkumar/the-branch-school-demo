@@ -2,8 +2,8 @@ export default function Home() {
   return (
     <>
       <section className="hero">
-        <h1>Empowering Minds in Houston's Heart</h1>
-        <p>The Branch School is a private school in Houston, TX, dedicated to fostering a love of learning in its students. Our experienced faculty and staff provide a supportive environment that encourages academic excellence, creativity, and personal growth.</p>
+        <h1>Empowering Young Minds in Houston</h1>
+        <p>The Branch School is a private school in Houston, TX, dedicated to fostering a love of learning in its students. Our experienced faculty and staff provide a nurturing environment that allows each child to grow and thrive.</p>
         <a href="/download" className="cta-btn" style={{ padding: '14px 32px', fontSize: '18px' }}>
           Get the Parent App
         </a>
@@ -26,7 +26,7 @@ export default function Home() {
           <p>Real-time attendance tracking with instant notifications to parents.</p>
         </div>
       </section>
-      <section className="section"><blockquote>"The Branch School has been a game-changer for our family - the small class sizes and individualized attention have really helped our child thrive."<cite>— Sarah Thompson</cite></blockquote></section>
+      <section className="section"><blockquote>"The Branch School has been a game-changer for our family - the small class sizes and personalized attention have really helped our child thrive."<cite>— Sarah P.</cite></blockquote></section>
     </>
   );
 }
