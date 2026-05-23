@@ -3,9 +3,9 @@ export default function About() {
     <section className="section">
       <h2>About The Branch School</h2>
       <div style={{ lineHeight: 1.8 }}>
-        <p style={{ marginBottom: '16px' }}>The Branch School was founded on the principle that every child deserves a personalized education. Our small class sizes and experienced teachers allow us to tailor our instruction to meet the unique needs of each student, from preschool to 8th grade. </p>
-        <p style={{ marginBottom: '16px' }}> We believe that education should be a journey of discovery, not just a series of tests and grades. That's why we emphasize hands-on learning, critical thinking, and creativity in all of our programs. </p>
-        <p style={{ marginBottom: '16px' }}> Our campus is located in the heart of Houston, providing easy access to the city's many cultural and educational resources. We encourage our students to explore their interests and passions, both in and out of the classroom, and to develop into confident, compassionate, and curious individuals.</p>
+        <p style={{ marginBottom: '16px' }}>The Branch School is a private school located in the heart of Houston, TX, serving students from preschool through eighth grade. Our school is committed to providing a well-rounded education that prepares students for success in all areas of life. </p>
+        <p style={{ marginBottom: '16px' }}> We believe that every child is unique and deserves an education that is tailored to their individual needs and interests. Our experienced teachers and staff work closely with each student to create a personalized learning plan that helps them reach their full potential. </p>
+        <p style={{ marginBottom: '16px' }}> At The Branch School, we are dedicated to creating a community that values diversity, inclusivity, and social responsibility. We encourage our students to become active participants in their own learning and to develop a sense of purpose and direction that will serve them well throughout their lives.</p>
       </div>
     </section>
   );

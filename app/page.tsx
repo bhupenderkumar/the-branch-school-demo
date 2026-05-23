@@ -3,7 +3,7 @@ export default function Home() {
     <>
       <section className="hero">
         <h1>Empowering Young Minds in Houston</h1>
-        <p>The Branch School is a private school in Houston, TX, dedicated to fostering a love of learning in its students. Our experienced faculty and staff provide a nurturing environment that allows each child to grow and thrive.</p>
+        <p>The Branch School is a private school in Houston, TX, dedicated to fostering a love of learning in our students. Our experienced faculty and staff provide a supportive and inclusive environment that encourages academic excellence and personal growth.</p>
         <a href="/download" className="cta-btn" style={{ padding: '14px 32px', fontSize: '18px' }}>
           Get the Parent App
         </a>
@@ -26,7 +26,7 @@ export default function Home() {
           <p>Real-time attendance tracking with instant notifications to parents.</p>
         </div>
       </section>
-      <section className="section"><blockquote>"The Branch School has been a game-changer for our family - the small class sizes and personalized attention have really helped our child thrive."<cite>— Sarah P.</cite></blockquote></section>
+      <section className="section"><blockquote>"The Branch School has been a game-changer for our family, providing a nurturing and supportive environment that has allowed our child to thrive."<cite>— Sarah Johnson</cite></blockquote></section>
     </>
   );
 }
